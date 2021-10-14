@@ -1,0 +1,11 @@
+@font-face { font-family: 'roboto', monospace; src: url(font/robot.tff);}
+
+
+body{
+  font-family: roboto;
+}
+
+body h2{
+  color: #fff;
+  opacity: 80%;
+}
