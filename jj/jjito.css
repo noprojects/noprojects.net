@@ -1,6 +1,6 @@
 @font-face{
-  font-family: roboto;
-  src: url(/font/robot.ttf);
+  font-family: sans;
+  src: url(LDFComicSans.ttf);
 }
 
 html{
@@ -8,14 +8,14 @@ html{
 }
 
 body{
-  font-family: roboto; monospace;
-  background: #232323;
+  font-family: sans; monospace;
+  background: #76CDDB;
   margin: 0;
 }
 
 nav {
-  background: linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.1));
-  opacity: 0.3;
+  background: linear-gradient(rgba(85,153,179,0.6), rgba(85,153,179,0.6));
+  opacity: 0.5;
   height: 10vh;
   width: 100%;
   position: fixed;
@@ -38,12 +38,18 @@ nav ul li a {
 }
 
 body {
-  font-family: roboto; monospace;
-  color: #fff;
+  font-family: sans; monospace;
+  color: #F849DB;
+}
+
+body li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 2vh;
 }
 
 body li a{
   text-decoration: none;
-  display: inline-block;
-  margin-right: 2vh;
+  color: #f0f0f0;
+  font-size: 1.1em
 }
