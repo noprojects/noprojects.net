@@ -15,7 +15,7 @@ body{
 
 nav {
   background: linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.1));
-  opacity: 0.3;
+  opacity: 0.5;
   height: 10vh;
   width: 100%;
   position: fixed;
@@ -25,19 +25,45 @@ nav {
   box-shadow: 0 5px 5px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
-nav ul li {
+header {
+  width: 100%;
+  height: 100vh;
+}
+
+body {
+  text-decoration: none;
+  color: #fff
+}
+
+body .Main{
+  text-align: left;
+  text-decoration: none;
+  margin-left: 3vh;
+}
+
+.promotion{
+  text-align: center;
+  margin-top: 30vh;
+  text-decoration: none;
+  color: #fff;
+}
+
+.promotion li {
   list-style: none;
   display: inline-block;
   margin-right: 2vh;
 }
 
-nav ul li a {
+.promotion li a {
   text-decoration: none;
   color: #f0f0f0;
   font-size: 1.1em;
 }
 
-header {
-  width: 100%;
-  height: 100vh;
+.promotion li a img {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.1em;
+  display: inline-block;
+  align-items: center;
 }
