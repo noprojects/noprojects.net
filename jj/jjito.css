@@ -37,7 +37,7 @@ nav ul li a {
   font-size: 1.1em;
 }
 
-body {
+body p{
   font-family: sans; monospace;
   color: #F849DB;
 }

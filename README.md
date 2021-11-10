@@ -18,4 +18,4 @@ Thanks for reading.
 
 
 
-https://noprojects.net/numberone/numberone.html
+https://noprojects.net/numberone

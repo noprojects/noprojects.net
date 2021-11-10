@@ -1,69 +1,67 @@
-@font-face{
-  font-family: roboto;
-  src: url(/font/robot.ttf);
+@font-face {
+  font-family: 'Inconsolata', monospace;
+  src: url(font/Inconsolata-Regular.ttf);
 }
 
-html{
+html {
   scroll-behavior: smooth;
 }
 
-body{
-  font-family: roboto; monospace;
-  background: #232323;
-  margin: 0;
-}
-
-nav {
-  background: linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.1));
-  opacity: 0.5;
-  height: 10vh;
-  width: 100%;
-  position: fixed;
-  z-index: 100;
-  display: flex;
-  align-items: center;
-  box-shadow: 0 5px 5px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-}
-
-header {
-  width: 100%;
-  height: 100vh;
-}
-
 body {
-  text-decoration: none;
-  color: #fff
+  background: #232323;
 }
 
-body .Main{
-  text-align: left;
+.header li{
   text-decoration: none;
-  margin-left: 3vh;
-}
-
-.promotion{
-  text-align: center;
-  margin-top: 30vh;
-  text-decoration: none;
-  color: #fff;
-}
-
-.promotion li {
   list-style: none;
-  display: inline-block;
-  margin-right: 2vh;
-}
-
-.promotion li a {
-  text-decoration: none;
-  color: #f0f0f0;
-  font-size: 1.1em;
-}
-
-.promotion li a img {
-  text-decoration: none;
+  text-align: center;
   color: #fff;
-  font-size: 1.1em;
-  display: inline-block;
+  opacity: 90%;
+}
+
+.main-section {
+  margin-top: 10vh;
+  text-align: center;
   align-items: center;
+}
+
+.main-section p {
+  margin-top: 10vh;
+  color: #fff;
+}
+
+.people {
+  margin-top: 10vh;
+  text-align: center;
+  align-items: center;
+}
+
+.vito {
+  color: #fff;
+}
+
+.jj {
+  color: #fff;
+}
+
+.zumo {
+  color: #fff;
+}
+
+.minfs {
+  color: #fff;
+}
+
+.promotion {
+  margin-top: 15vh;
+  display: flex;
+}
+
+.cloumn {
+  flex: 100%;
+  padding: 20px;
+  text-decoration: none;
+  list-style: none;
+  align-items: center;
+  text-align: center;
 }
