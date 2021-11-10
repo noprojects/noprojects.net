@@ -9,13 +9,4 @@ Before you post an issue, read below.
 but we are thinking of creating a group project soon.
 
 
-Thanks for reading.
-
-
-
-
-
-
-
-
-https://noprojects.net/numberone
+Thanks for reading
