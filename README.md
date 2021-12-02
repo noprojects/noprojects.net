@@ -2,7 +2,7 @@
 
 ## NoProjects is an open sourced website for the portfolios of myself, minfs, zumoarikuTM and jjito123.
 
-### Before posting an issue, please take a look at the answers to common questions below.
+### Before posting an issue, please take a look at the answers to common questions below, and if they don't answer your questions, then look at past issues and their answers.
 
 ~ The website isn't made for mobile, and probably never will.
 
@@ -21,4 +21,6 @@
   a folder lmao. I'll move everything from the folders and into the main directory once I'm done with the site,
   so that it looks like noprojects.net/vito
 
-### Thanks for reading.
+### Website main domain is www.noprojects.net (finding out how to add https soon lmao)
+
+### Thanks for reading
