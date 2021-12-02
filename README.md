@@ -1,15 +1,24 @@
-# NoProjects is a open sourced website for the portfolios of myself, minfs, zumo and jjito123.
+# NoProjects
 
-### Before you post an issue, read below.
+## NoProjects is an open sourced website for the portfolios of myself, minfs, zumoarikuTM and jjito123.
 
-The website isn't made for mobile, and probably never will.
+### Before posting an issue, please take a look at the answers to common questions below.
 
-As of writing this message, the website isn't finished, and probably not for a while.
+~ The website isn't made for mobile, and probably never will.
 
-Nobody here actually has any projects to be put in the website as of now,
-but we are thinking of creating a group project soon.
+~ As of writing this message, the website isn't finished, and probably not for a while.
 
-This website was bought from NameCheap
+~ Nobody here actually has any projects to be put in the website as of now,
+  but we are thinking of creating a group project soon.
 
+~ This website was bought from NameCheap
 
-Thanks for reading.
+~ If you would like to learn more about the website, or get news about updates, please join the Discord.
+  If you want EARLY ACCESS SHIT (LIKE WHILE THE WEBSITE IS BEING MADE) join the Patreon. Please don't
+  join the Patreon just because you have money. (Lookin at you peebox.)
+
+~ I know a domain that looks like noprojects.net/vito/vito is really silly, but the first 'vito' is literally
+  a folder lmao. I'll move everything from the folders and into the main directory once I'm done with the site,
+  so that it looks like noprojects.net/vito
+
+### Thanks for reading.
