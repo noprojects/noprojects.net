@@ -1,6 +1,6 @@
-###NoProjects is a open sourced website for the portfolios of myself, minfs, zumo and jjito123.
+# NoProjects is a open sourced website for the portfolios of myself, minfs, zumo and jjito123.
 
-Before you post an issue, read below.
+### Before you post an issue, read below.
 
 The website isn't made for mobile, and probably never will.
 
